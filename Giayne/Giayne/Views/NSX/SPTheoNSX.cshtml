@@ -1,0 +1,47 @@
+﻿@using Giayne.Models;
+@model List<SANPHAM>
+
+
+
+@{
+    ViewBag.Title = "SPTheoNSX";
+    Layout = "~/Views/Shared/USER.cshtml";
+}
+
+<h2>DANH SÁCH SẢN PHẨM</h2>
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-4">
+                <img src="@Url.Content("~/hanh/" + item.ANHBIA)" width=70% alt="Image" />
+                @if (item.TENSP.Length > 30)
+                {
+                    if(Session["MAKH"]==null)
+                    { 
+                                        <p><strong title="@item.TENSP">@item.TENSP.Substring(0, 30)...</strong></p>
+                    <a href="@Url.Action("Login", "DangNhap", new { @ms = item.MASP })">Xem chi tiet</a>
+                    }
+                    else
+                    { 
+                    <p><strong title="@item.TENSP">@item.TENSP.Substring(0, 30)...</strong></p>
+                    <a href="@Url.Action("xemChiTiet", "SanPham", new { @ms = item.MASP })">Xem chi tiet</a>
+                }
+                }
+                else
+                {
+                    if (Session["MAKH"] == null)
+                    { 
+                    <p><strong title="@item.TENSP">@item.TENSP</strong></p>
+                    <a href="@Url.Action("Login", "DangNhap", new { @ms = item.MASP })">Xem chi tiet</a>
+                    }
+                    else
+                    { 
+                    <p><strong title="@item.TENSP">@item.TENSP</strong></p>
+                    <a href="@Url.Action("xemChiTiet", "SanPham", new { @ms = item.MASP })">Xem chi tiet</a>
+                }
+                }
+            </div>
+        }
+    }
+</div>

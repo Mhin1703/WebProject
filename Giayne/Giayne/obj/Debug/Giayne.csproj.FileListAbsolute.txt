@@ -1,0 +1,176 @@
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Giayne.dll.config
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Giayne.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Giayne.pdb
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csc.exe
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csc.exe.config
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csc.rsp
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csi.exe
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csi.exe.config
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\csi.rsp
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.Managed.Core.targets
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.AppContext.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Collections.Immutable.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Console.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Globalization.Calendars.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.IO.Compression.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.IO.FileSystem.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Net.Http.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Net.Sockets.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Reflection.Metadata.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.ValueTuple.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Xml.XmlDocument.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Xml.XPath.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\vbc.exe
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\vbc.exe.config
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\vbc.rsp
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\VBCSCompiler.exe
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\roslyn\VBCSCompiler.exe.config
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Antlr3.Runtime.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Microsoft.Web.Infrastructure.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Newtonsoft.Json.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Net.Http.Formatting.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Helpers.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Http.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Http.WebHost.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Mvc.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Optimization.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Razor.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.Deployment.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.Razor.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\WebGrease.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Newtonsoft.Json.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Net.Http.Formatting.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Helpers.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Http.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Http.WebHost.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Mvc.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Optimization.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.Razor.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.Deployment.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\System.Web.WebPages.Razor.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Antlr3.Runtime.pdb
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\obj\Debug\Giayne.csproj.AssemblyReference.cache
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\obj\Debug\Giayne.csproj.CoreCompileInputs.cache
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\obj\Debug\Giayne.csproj.CopyComplete
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\obj\Debug\Giayne.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\obj\Debug\Giayne.pdb
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\EntityFramework.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\EntityFramework.SqlServer.dll
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\EntityFramework.xml
+C:\cac\congngheweb\ĐỒ ÁN\Giayne\Giayne\bin\EntityFramework.SqlServer.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Giayne.dll.config
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Giayne.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Giayne.pdb
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csc.exe
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csc.exe.config
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csc.rsp
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csi.exe
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csi.exe.config
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\csi.rsp
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.AppContext.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Collections.Immutable.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Console.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.IO.Compression.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.IO.FileSystem.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Net.Http.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Net.Sockets.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.ValueTuple.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Xml.XPath.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\vbc.exe
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\vbc.exe.config
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\vbc.rsp
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\VBCSCompiler.exe
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\roslyn\VBCSCompiler.exe.config
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Antlr3.Runtime.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\EntityFramework.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\EntityFramework.SqlServer.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Microsoft.Web.Infrastructure.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Newtonsoft.Json.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Net.Http.Formatting.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Helpers.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Http.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Http.WebHost.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Mvc.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Optimization.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Razor.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.Deployment.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.Razor.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\WebGrease.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\EntityFramework.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\EntityFramework.SqlServer.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Newtonsoft.Json.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Net.Http.Formatting.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Helpers.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Http.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Http.WebHost.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Mvc.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Optimization.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.Razor.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.Deployment.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\System.Web.WebPages.Razor.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Antlr3.Runtime.pdb
+D:\hoc\onlineweb2\doan\Giayne\Giayne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoc\onlineweb2\doan\Giayne\Giayne\obj\Debug\Giayne.dll
+D:\hoc\onlineweb2\doan\Giayne\Giayne\obj\Debug\Giayne.pdb
+D:\hoc\onlineweb2\doan\Giayne\Giayne\obj\Debug\Giayne.csprojResolveAssemblyReference.cache

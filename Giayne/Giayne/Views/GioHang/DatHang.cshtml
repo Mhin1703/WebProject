@@ -1,0 +1,43 @@
+﻿@using Giayne.Models
+@model List<GioHang>
+
+@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Shared/USER.cshtml";
+}
+
+<h2>Đặt Hàng Thành Công</h2>
+<table class="table">
+    <tr style="background-color:lightcoral">
+        <th>
+            Sản phẩm
+        </th>
+        <th>
+            Số lượng
+        </th>
+        <th>
+            Đơn giá / 1 sản phẩm
+        </th>
+        <th>
+            Thành tiền
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.tensp)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.sl)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.giaban)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.thanhtien)
+    </td>
+</tr>}
+
+</table>

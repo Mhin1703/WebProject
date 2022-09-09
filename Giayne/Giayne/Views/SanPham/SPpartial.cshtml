@@ -1,0 +1,82 @@
+﻿@using Giayne.Models;
+@model List<SANPHAM>
+
+@{
+    ViewBag.Title = "SPpartial";
+    Layout = "~/Views/Shared/USER.cshtml";
+}
+
+<h2> DANH SÁCH GIÀY</h2>
+@using (Html.BeginForm())
+{
+    
+    <div class="form-group form-inline">
+        Tìm sản phẩm: @Html.TextBox("SearchString", "", new { @class = "form-control" })
+        <input type="submit" class="btn btn-primary" value="Search" />
+
+    </div>
+
+}
+<div class="row">
+    @{
+       foreach (var item in Model)
+        {
+            <div class= "col-4" >
+
+            <img src = "@Url.Content("~/hanh/"+item.ANHBIA)" width = "100" height = "100" alt = "Image" />
+
+            @if (item.TENSP.Length > 30)
+            {
+                if(Session["MAKH"]==null)
+                {
+                <p >
+                <strong title = "@item.TENSP" > Loại Sản Phẩm: 
+                    @item.TENSP.Substring(0, 30)...</strong >
+                    
+                <a href = "@Url.Action("Login", "DangNhap")" > Xem Chi Tiết</a >
+                   
+                    
+                </p>
+                }
+                else
+                {
+                 <p >
+                <strong title = "@item.TENSP" > Loại Sản Phẩm: 
+                    @item.TENSP.Substring(0, 30)...</strong >
+                    
+                <a href = "@Url.Action("xemChiTiet", new { @ms = item.MASP })" > Xem Chi Tiết</a >
+                   
+                    
+                </p>
+                }
+                
+            }
+            else
+            {
+                if (Session["MAKH"] == null)
+                { 
+                <p>
+                    <strong title="@item.TENSP"> Loại Sản Phẩm: <br />
+                    @item.TENSP </strong>
+
+                <a href = "@Url.Action("Login","DangNhap")" ><br /> Xem Chi Tiết</a >
+
+                </p >
+            }
+            else
+                { 
+                 <p>
+                    <strong title="@item.TENSP"> Loại Sản Phẩm: <br />
+                    @item.TENSP </strong>
+
+                <a href = "@Url.Action("xemChiTiet", new { @ms = item.MASP })" ><br /> Xem Chi Tiết</a >
+
+                </p > }
+
+                <div class= "clear" ></div >
+            }
+            </div >
+
+        }
+    }
+</div>

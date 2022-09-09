@@ -1,0 +1,27 @@
+﻿@using Giayne.Models;
+@model List<LOAI>
+
+
+@{
+    ViewBag.Title = "Loai";
+    Layout = null;
+}
+<ul class="list-group list-group-flush text-left">
+
+    <li class="list-group-item" style="background-color:darkorange;">
+
+        <a href="#" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">THƯƠNG HIỆU</a>
+
+    </li>
+    @{
+        foreach (var item in Model)
+        {
+            <li class="list-group-item">
+                <a href="@Url.Action("SPTheoLoai", "Loai", new { @MaCD = item.MALOAI })" style="text-transform:uppercase;text-decoration:none;">@item.TENLOAI</a>
+            </li>
+        }
+        <li class="list-group-item">
+            <a href="#" style="text-transform:uppercase; text-decoration:none;"> </a>
+        </li>
+    }
+</ul>
